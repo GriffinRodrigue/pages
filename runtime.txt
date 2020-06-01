@@ -1,1 +1,1 @@
-python version = "-3.6.10"
+python version = "3.6.10"
