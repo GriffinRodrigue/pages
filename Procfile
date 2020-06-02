@@ -1,3 +1,3 @@
-web: gunicorn manage.py
+web: gunicorn pages:manage.py
 
 
