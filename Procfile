@@ -1,3 +1,3 @@
-web: gunicorn pages:home --preload
+web: gunicorn pages:main --preload
 
 
